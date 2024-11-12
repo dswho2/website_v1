@@ -1,8 +1,13 @@
 # Personal Website
 
-Personal Website utilizing JavaScript, CSS, and HTML
+This is an old version of my personal website, created using HTML, CSS, and JavaScript. It was previously hosted on GitHub Pages but is no longer live.
 
-index.html for main file to run for website
-or alternatively, use https://dswho2.github.io
+# Technologies Used
 
-**still in development**
+- HTML - For structuring content on the website.
+- CSS - For styling the layout and appearance.
+- JavaScript - For adding interactive features.
+
+# Usage
+
+Clone the repository and open index.html to view the website locally.
